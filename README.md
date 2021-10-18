@@ -1,4 +1,4 @@
-# School_District_Analysis_M4
+# School District Analysis Module 4 Challenge
 
 ## Overview/Purpose
 The purpose of Module 4 was to analyze school district data and to create multiple data frames of the resulting analysis.  The data analyzed included budget data, math and reading test scores, as well as school type and school size.  The Module 4 Challenge assignment revolved around taking the finished analysis and revising it based on information that the ninth grade math and reading scores for Thomas High School had to be removed due to academic dishonesty (cheating).  This revision required the following steps:
@@ -25,6 +25,6 @@ The number of ninth-grade students that were impacted by the adjustment to the a
   5. The math and reading scores by grade were impacted as Thomas High School had no scores to calculate.
 
 
-### Summary
+## Summary
 Due to the fact the # of students impacted was 1.2% of the total population, the results were minimally impacted by the removal of the students.  The adjustment impacted Thomas High School's average math score, average reading score, % passing math score, % passing reading score, and %overall passing score.  The adjustment did not, however, impact Thomas High School's overall ranking of number 2 in the top 5.  Additionally, there was a decrease in the District's overall scores as well.  Had the number of students been greater, or more grades included, there could have been more of an impact to the District and the overall Thomas High School rankings.           
 
