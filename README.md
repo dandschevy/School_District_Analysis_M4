@@ -11,14 +11,11 @@ Below are the results of the replacement and revised analysis.
 
 ## Results 
 
-The number of ninth-grade students that were impacted by the adjustment to the analysis was 461; this was out of a total of 39,170 students in the entire district.  The result of the analysis are as follows:
+The number of ninth-grade students that were impacted by the adjustment to the analysis was 461; this was out of a total of 39,170 students in the entire district.  The result of the analysis are as follows
+  1. District Summary: There were differences in the district summary data frame based on the removal and replacement of the ninth-grade math and reading scores.
+  As displayed below, there were reductions to the average math score, % passing math, % passing reading, and % overall passing metrics.  
 
-    1.  District Summary: There were differences in the district summary data frame based on the removal and replacement of the ninth-grade math and reading scores.
-        As displayed below, there were reductions to the average math score, % passing math, % passing reading, and % overall passing metrics.  
-
-#### 2017 Before Refactoring
-Note: Time listed for before refactoring (2017 only) does not include numerical formatting or font/cell changes.
-![green_stocks_2017](https://user-images.githubusercontent.com/90434559/135773140-e8977ac8-3bff-42b3-9e5c-edad1fa8eaa4.png)
+![District_Summary](https://user-images.githubusercontent.com/90434559/135773140-e8977ac8-3bff-42b3-9e5c-edad1fa8eaa4.png)
 
 #### 2017 After Refactoring
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/90434559/135772996-d8a644af-fe38-4e7f-816f-564396003b45.png)
